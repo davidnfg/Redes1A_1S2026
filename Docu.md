@@ -1058,38 +1058,5 @@ write memory
 
 ## 8. Capturas de Pantalla
 
-### 8.1 Topología General
 
-[INSERTAR CAPTURA — Vista completa de la topología en Packet Tracer]
 
-### 8.2 EtherChannel — SW-Core
-
-[INSERTAR CAPTURA — Resultado de `show etherchannel summary` en SW-Core]
-
-### 8.3 VLANs — SW-Core
-
-[INSERTAR CAPTURA — Resultado de `show vlan brief` en SW-Core]
-
-### 8.4 Spanning Tree — SW-Tpasarejos
-
-[INSERTAR CAPTURA — Resultado de `show spanning-tree vlan 19` en SW-Tpasarejos]
-
-### 8.5 Spanning Tree — SW-TorreControl
-
-[INSERTAR CAPTURA — Resultado de `show spanning-tree vlan 39` en SW-TorreControl]
-
-### 8.6 Spanning Tree — SW-Tcarga
-
-[INSERTAR CAPTURA — Resultado de `show spanning-tree vlan 59` en SW-Tcarga]
-
-### 8.7 Interfaces Trunk — SW-Core
-
-[INSERTAR CAPTURA — Resultado de `show interfaces trunk` en SW-Core]
-
-### 8.8 Asignación de IPs — Dispositivos
-
-[INSERTAR CAPTURA — Configuración IP de al menos un dispositivo por área]
-
----
-
-*Documentación generada para la práctica de Redes de Computadoras — Carnet 202307499*
